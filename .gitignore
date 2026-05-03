@@ -1,0 +1,8 @@
+# Ignore dataset folder
+hasy-data/
+
+# Optional (recommended)
+*.h5
+__pycache__/
+*.pyc
+mathcnn/
